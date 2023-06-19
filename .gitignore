@@ -27,6 +27,7 @@
 .vs/
 .vscode/
 .DS_Store
+*.zip
 
 # Gradle cache directory
 .gradle/
