@@ -5,9 +5,9 @@ Created in the 48-hour game jam: Spring 2D Jam 2023.
 ##### Click image to watch trailer
 
 ### Relevant Links
-[Itch.io Page](https://slypuffin.itch.io/chick-chick-go)
+Where to Play: [Itch.io Page](https://slypuffin.itch.io/chick-chick-go)
 
-[Game Jam Submission Page](https://itch.io/jam/spring-2d-jam-2023/rate/2080111)
+Comments and Ratings from the Game Jam: [Spring 2D Jam 2023 Submission Page](https://itch.io/jam/spring-2d-jam-2023/rate/2080111)
 # How to Play
 Click the chicken to select. Click to move around and use abilities with the on-screen button.
 
